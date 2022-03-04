@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
-    string header_Shell = "xrandr --output DP-0 --brightness ";
+    string header_Shell = "xrandr --output DP-0 --brightness "; //change output screen
     string command_Shell = "";
     stringstream ss;
     char touch;
