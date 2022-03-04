@@ -1,4 +1,5 @@
-#include <SFML/Network.hpp>
+//coded by Sud0ck3rs
+#include <SFML/Network.hpp>  //include library SFML
 #include <iostream>
 
 using namespace std;
