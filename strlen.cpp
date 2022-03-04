@@ -1,3 +1,4 @@
+//coded by Sud0ck3rs
 #include <iostream>
 #include <string.h>
 
