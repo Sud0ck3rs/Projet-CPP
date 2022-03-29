@@ -31,7 +31,6 @@ void cancel(bool &running)
 
 int main()
 {
-    ShowWindow(GetConsoleWindow(), false);
     bool running = true;
     System sys;
     thread exit(cancel, ref(running));
